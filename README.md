@@ -75,9 +75,7 @@ The dataset under examination includes comprehensive records of loans issued ove
 This rich dataset provides a fertile ground for applying various `EDA techniques` to gain insights into the following aspects:
 
 > 1. **Understanding the Distribution of Loan Characteristics:** Analyzing attributes such as loan amount, interest rate, and loan term to assess their impact on loan performance.
-<br>
 > 2. **Examining Borrower Profiles:** Investigating demographic factors, such as annual income, employment length, and credit history, to understand their influence on loan default rates.
-<br>
 > 3. **Exploring Loan Default Patterns:** Identifying patterns and trends in loan defaults over time, and uncovering any correlations with specific loan features or borrower characteristics.
 
 ## Data Preparation
